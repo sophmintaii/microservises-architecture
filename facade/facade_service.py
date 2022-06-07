@@ -24,6 +24,7 @@ def facade_service():
 
     if request.method == 'GET':
         res = f'{requests.get(logging_client).text} : {requests.get(messages_client).text}'
+        return res
 
 
 if __name__ == '__main__':
