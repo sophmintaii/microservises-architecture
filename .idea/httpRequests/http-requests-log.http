@@ -1,0 +1,98 @@
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T211151.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T211137.200.html
+
+###
+
+POST http://localhost:8080/facade
+Content-type: application/json
+
+"message 1"
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T211039.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T210618.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T210614.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T210604.200.html
+
+###
+
+POST http://localhost:8080/facade
+Content-type: application/json
+
+"message 1"
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T210303.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T210257.200.html
+
+###
+
+POST http://localhost:8080/facade
+Content-type: application/json
+
+"message 1"
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T205750.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T205533.200.html
+
+###
+
+GET http://localhost:8080/facade
+Accept: text/html
+
+<> 2022-06-07T205330.500.html
+
+###
+
